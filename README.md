@@ -1,5 +1,7 @@
 # Code for FAIR--compliant data versioning service
 
+[![DOI](https://zenodo.org/badge/757773305.svg)](https://zenodo.org/doi/10.5281/zenodo.10660666)
+
 This repository contains all the necessary source code to assign the "minor" term from the standard data versioning framework.
 
 The main folder contains all the Python scripts and Jupyter notebooks to obtain the results submitted for publication.
