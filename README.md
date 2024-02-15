@@ -90,6 +90,22 @@ If you encounter any bugs, issues, or have suggestions for improvement, please f
 
 We encourage you to check the existing issues before creating a new one to avoid duplicates. Your contributions to improving our code are highly appreciated, and we aim to address issues and suggestions promptly 🤓.
 
+## 🚨 Reporting Vulnerabilities
+
+If you find a security vulnerability, please help us address it promptly. Follow these steps to report the vulnerability:
+
+1. **Open an Issue:**
+   - Go to the [Issues](https://github.com/albagc/auto-data-version/issues) tab on the repository.
+   - Click on the "New Issue" button.
+   - Choose the "Security Vulnerability" template.
+   - Provide detailed information about the vulnerability, including steps to reproduce if possible.
+   - Submit the issue.
+
+2. **Private Disclosure (Optional):**
+   - If the vulnerability requires privacy and should not be disclosed publicly, please send a confidential report to [Alba.Gonzalez-Cebrian@ncirl.ie](mailto:Alba.Gonzalez-Cebrian@ncirl.ie).
+
+We appreciate your cooperation in responsibly reporting security issues and working with us to address them. Your efforts contribute to the overall security of the project.
+
 ## 🌐 Collaboration Policy
 
 While we value community engagement, the repository is not currently set up for open collaboration. The development and direction of the project are primarily managed by the project maintainers. We appreciate your understanding and encourage you to enjoy and benefit from the software provided.
