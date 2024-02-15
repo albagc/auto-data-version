@@ -8,7 +8,7 @@ This repository contains all the necessary source code to assign the "minor" ter
 
 The main folder contains all the Python scripts and Jupyter notebooks to obtain the results submitted for publication.
 
-## Executing the experiment scripts 
+## 🔁 Executing the experiment scripts 
 
 To run the scripts, it is mandatory to have Python installed on your device. It is required specifically the Python 3.10.9 version ([link to download Python](https://www.python.org/downloads/release/python-3109/))
 
@@ -77,7 +77,7 @@ The script ```ps_models_r2.py``` plots the Figure with the information regarding
 10.- **WARNING**: By default, the scripts call to all the datasets. 
 If users want to exclude any dataset, they should edit the scripts by removing the names of their corresponding files from the lists containing the names of all the experiments and datasets.
 
-## Bug Reporting and Suggestions
+## ⚠️ Bug Reporting and Suggestions
 
 If you encounter any bugs, issues, or have suggestions for improvement, please feel free to raise an issue in the GitHub repository. Your feedback is valuable, and we appreciate your efforts in helping enhance the project.
 
@@ -90,7 +90,7 @@ If you encounter any bugs, issues, or have suggestions for improvement, please f
 
 We encourage you to check the existing issues before creating a new one to avoid duplicates. Your contributions to improving our code are highly appreciated, and we aim to address issues and suggestions promptly 🤓.
 
-## Collaboration Policy
+## 🌐 Collaboration Policy
 
 While we value community engagement, the repository is not currently set up for open collaboration. The development and direction of the project are primarily managed by the project maintainers. We appreciate your understanding and encourage you to enjoy and benefit from the software provided.
 
