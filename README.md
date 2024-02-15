@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/757773305.svg)](https://zenodo.org/doi/10.5281/zenodo.10660666)
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8407/badge)](https://www.bestpractices.dev/projects/8407)
+
 [![fair-software.eu](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B%20%20%E2%97%8F%20%20%E2%97%8B-orange)](https://fair-software.eu)
 
 This repository contains all the necessary source code to assign the "minor" term from the standard data versioning framework.
