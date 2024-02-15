@@ -8,7 +8,7 @@ This repository contains all the necessary source code to assign the "minor" ter
 
 The main folder contains all the Python scripts and Jupyter notebooks to obtain the results submitted for publication.
 
-## Executing the experiment scripts 
+## Executing the experiment scripts 
 
 To run the scripts, it is mandatory to have Python installed on your device. It is required specifically the Python 3.10.9 version ([link to download Python](https://www.python.org/downloads/release/python-3109/))
 
